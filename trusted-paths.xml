@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/IdeaProjects/cs427-machineproblems" />
+        <option value="$USER_HOME$/Repos" />
       </list>
     </option>
   </component>
