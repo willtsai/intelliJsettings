@@ -2,5 +2,6 @@
   <component name="PrintSettings">
     <option name="printScope" value="1" />
     <option name="PAPER_SIZE" value="Letter" />
+    <option name="PORTRAIT_LAYOUT" value="false" />
   </component>
 </application>
